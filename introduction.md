@@ -9,8 +9,9 @@ Embark on an exciting phase of your academic career with these comprehensive cou
 - [COMP30022 IT Project](https://handbook.unimelb.edu.au/2024/subjects/comp30022) - Embark on a collaborative IT project journey.
 - [SWEN30006 Software Modelling and Design](https://handbook.unimelb.edu.au/2024/subjects/swen30006) - Master the art of software modeling and design.
 - [SWEN90009 Software Requirements Analysis](https://handbook.unimelb.edu.au/2024/subjects/swen90009) - Dive deep into the world of software requirements.
-- [SWEN90014 Masters Software Engineering Project](https://handbook.unimelb.edu.au/2024/subjects/swen90014) - Tackle advanced software engineering development, deployment and testing challenges.
-- [SWEN90013 Masters Advanced Software Project](https://handbook.unimelb.edu.au/2024/subjects/swen90013) - Push the boundaries of software project management, monitoring, execution, deployment.
+- [SWEN90014 Masters Software Engineering Project](https://handbook.unimelb.edu.au/2024/subjects/swen90014) - Tackle advanced software engineering design, reuse, development and testing challenges.
+- [SWEN90017](https://handbook.unimelb.edu.au/2024/subjects/swen90017)/[SWEN90018](https://handbook.unimelb.edu.au/2024/subjects/swen90018) Masters Advanced Software Project Part A/B (was [SWEN90013](https://handbook.unimelb.edu.au/2023/subjects/swen90013)) - Push the boundaries of software project management, monitoring, execution, deployment.
+- [SWEN90013 Masters Advanced Software Project](https://handbook.unimelb.edu.au/2023/subjects/swen90013) - Push the boundaries of software project management, monitoring, execution, and deployment.
 - [COMP90082 Software Project](https://handbook.unimelb.edu.au/2024/subjects/comp90082) - Deliver impactful software solutions to real-world problems.
 
 ## Why This Resource?
