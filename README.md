@@ -6,11 +6,13 @@
 The purpose of this handbook is to act as a resource for students to consult throughout the semester while 
 undertaking one of the below subjects:
 
-- [SWEN30006 Software Modelling and Design](https://handbook.unimelb.edu.au/2022/subjects/swen30006)
-- [SWEN90009 Software Requirements Analysis](https://handbook.unimelb.edu.au/2022/subjects/swen90009)
-- [SWEN90014 Masters Software Engineering Project](https://handbook.unimelb.edu.au/2022/subjects/swen90014)
-- [SWEN90013 Masters Advanced Software Project](https://handbook.unimelb.edu.au/2022/subjects/swen90013)
-- [COMP90082 Software Project](https://handbook.unimelb.edu.au/2022/subjects/comp90082)
+- [SWEN30006 Software Modelling and Design](https://handbook.unimelb.edu.au/2024/subjects/swen30006)
+- [SWEN90009 Software Requirements Analysis](https://handbook.unimelb.edu.au/2024/subjects/swen90009)
+- [SWEN90014 Masters Software Engineering Project](https://handbook.unimelb.edu.au/2024/subjects/swen90014)
+- [SWEN90017 Masters Advanced Software Project Part 1](https://handbook.unimelb.edu.au/2024/subjects/swen90017)
+- [SWEN90018 Masters Advanced Software Project Part 2](https://handbook.unimelb.edu.au/2024/subjects/swen90018)
+- (previously [SWEN90013 Masters Advanced Software Project](https://handbook.unimelb.edu.au/2023/subjects/swen90013))
+- [COMP90082 Software Project](https://handbook.unimelb.edu.au/2024/subjects/comp90082)
 
 ## Contributors ✨
 
